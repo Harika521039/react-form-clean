@@ -42,9 +42,7 @@ The submit button remains disabled until **all fields are filled correctly**.
 
 ---
 
-##  Demo Video
+## 📸 Demo Video
 
-**Demo Video Link:**  
-Upload the video to GitHub or Google Drive and paste the link here.
-
-Example:  
+👉 **Demo Video Link:**  
+https://drive.google.com/file/d/1HQnc2EjTuB_TScppPoHsGBbQ4JLueDc0/view?usp=sharing
